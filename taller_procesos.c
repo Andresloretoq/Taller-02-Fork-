@@ -1,4 +1,6 @@
-
+/*****Integrantes: Andres Loreto Quiros y Santiago Hernandez *****/
+/*Taller 2*/
+/*Sistemas Operativos*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
